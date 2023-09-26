@@ -1,0 +1,69 @@
+div{
+    margin: 0 auto;
+    text-align: center;
+    border: solid 2px #ff1415;
+    width: 500px;
+    padding: 20px 10px 40px 10px;
+}
+
+h2{
+    color:#ff1415;
+    font-family: Impact;
+    font-size: 26px;
+}
+
+p{
+    width: 300px;
+    color:#ff1415;
+    font-family: Verdana;
+    font-size: 12px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    
+}
+
+img{
+    margin-top: 30px;
+    width: 250px;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#ff1415;
+}
+
+body{
+    margin-top: 80px;
+    background: black;
+    justify-content: center;
+    
+}
+
+a{
+    font-family: Verdana;
+    font-size: 14px;
+    color: aliceblue;
+    padding: 15px 40px 15px 40px;  
+    background-color: #ff1415;       
+    border-radius: 15px;
+    border-width:8px;
+    border-style: solid;
+    border-color: #ff1415;
+    padding: 0;
+    text-decoration: none;
+}
+
+Largura 500px
+Margem 0 auto
+Alinhou tento  
+Borda vermelha  e sólida 2px 
+Cor ff1415
+Pad aumenta superior e inferior de 15px e nas laterais de 40
+Pad 30,60,80,60
+Largura cara 350px
+Título  inpacit 
+Tamanho doente 28px
+Cor mesma da borda 
+Duas margens, superior 50px 
+Inferior 50px
+Texto Verdana 18px
+Conf margem inferior 80px
+Links fonte verdana, TAM 18px, cor ff1415, cor de fundo
